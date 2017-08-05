@@ -1,0 +1,14 @@
+{application, eqqwry,
+ [
+  {description, "An Erlang eqqwry library"},
+  {vsn, "1"},
+  {modules, [
+             eqqwry
+            ]},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {env, []}
+ ]}.
