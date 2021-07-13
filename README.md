@@ -1,5 +1,6 @@
 # eqqwry
 纯真数据库QQWry.Dat的 erlang 解析 nif版
+纯真数据库编码转换，请参考：https://github.com/shuax/LocateIP
 
 例如
 ```Erlang
