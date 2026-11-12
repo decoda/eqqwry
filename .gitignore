@@ -2,4 +2,6 @@ ebin/
 c_src/*.o
 c_src/*.d
 priv/*.so
+_build/
+rebar.lock
 .rebar
